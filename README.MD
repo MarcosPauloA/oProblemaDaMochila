@@ -15,7 +15,7 @@ Este projeto implementa um algoritmo genético para resolver um problema de otim
     ```
 2. Navegue até o diretório do projeto:
     ```bash
-    cd seu-repositorio
+    cd oProblemaDaMochila
     ```
 3. Instale as dependências necessárias:
     ```bash
@@ -27,7 +27,7 @@ Este projeto implementa um algoritmo genético para resolver um problema de otim
 1. Certifique-se de que você está no diretório do projeto.
 2. Execute o script Python:
     ```bash
-    python algoritmo_genetico.py
+    python oProblemaDaMochila.py
     ```
 
 ## Descrição do Código
